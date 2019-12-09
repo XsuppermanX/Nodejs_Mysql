@@ -1,6 +1,7 @@
 # Nodejs_Mysql
 
-#start 
+#start in command line
+
 npm install
 
 npm start
